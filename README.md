@@ -8,7 +8,8 @@ This repository contains an end-to-end solution for classifying images of cats a
 
 #Dataset
 
- Source: The `cats_and_dogs_filtered` dataset (available from TensorFlow tutorials).
+ Source: The `cats_and_dogs_filtered` dataset from Kaggel datasets.
+
  Structure:
 
    `train/cats` (total 1000 images)
